@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">BSM</h1>
+<h1 align="center">Ben Slima Mahdi</h1>
 
 <p align="center">
   DevOps / Platform Engineer • Kubernetes • GitOps • Cloud & On-Prem Infrastructure
